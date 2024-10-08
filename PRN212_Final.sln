@@ -5,7 +5,9 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF_User", "WPF_User\WPF_User.csproj", "{55C4387F-F99D-49CC-B2F1-CD5E22A302BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_User", "LINQ_User\LINQ_User.csproj", "{071B1D8B-2E94-4672-B6C2-99430632A1A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_User", "LINQ_User\LINQ_User.csproj", "{071B1D8B-2E94-4672-B6C2-99430632A1A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{E86C7C23-07B1-45C2-914C-04DA232C2252}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{071B1D8B-2E94-4672-B6C2-99430632A1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{071B1D8B-2E94-4672-B6C2-99430632A1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{071B1D8B-2E94-4672-B6C2-99430632A1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E86C7C23-07B1-45C2-914C-04DA232C2252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86C7C23-07B1-45C2-914C-04DA232C2252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86C7C23-07B1-45C2-914C-04DA232C2252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86C7C23-07B1-45C2-914C-04DA232C2252}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
